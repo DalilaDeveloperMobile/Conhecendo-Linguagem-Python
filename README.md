@@ -1,7 +1,7 @@
 ![Captura de tela 2024-04-17 123206](https://github.com/DalilaDeveloperMobile/Conhecendo-Linguagem-Python/assets/29806802/83eba503-c094-4431-b85f-e7b4cc9d92de)
 ### Passos Iniciais Realizados Nesse Curso Python AI Backend Developer. [dio_me](https://www.dio.me/)
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Tipos de Dados:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Tipos de Dados:
 
 ```
 # int
@@ -18,7 +18,7 @@ print(False) # False
 print("Python") # Python
 
 ```
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Modo Interativo:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Modo Interativo:
 
 ```
 # Modo Interativo
@@ -65,7 +65,7 @@ print("Python") # Python
 # Tem Mais Nesse Aquivo 2-modo_interativo.py....
 
 ```
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Variaveis e Constantes:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Variaveis e Constantes:
 
 ```
 # Variaveis N Constants:
@@ -88,7 +88,7 @@ print(BRAZILIAN_STATES)
 limite_saque_diario = 1000
 
 ```
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Convertendo Tipos:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Convertendo Tipos:
 
 ```
 # Converção de Tipos:
@@ -119,7 +119,7 @@ print(100 / 2) # Result: 50.0
 print(100 // 2) # Result: 50
 
 ``` 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Funções de Entrada e Saída:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Funções de Entrada e Saída:
 
 ```
 # Funções de Entrada e Saída:
@@ -144,3 +144,11 @@ print(nome, idade, sep="#", end="...\n")
 # Result: Dalila# 28...
 
 ```
+<h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
+<div align="center"  style="display: inline-block">
+  <a href="https://www.linkedin.com/in/dalila-cust%C3%B3dio-046076181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dalila.dalila70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dalila.dalila70" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5588997138541"><img  alt="Whatsapp" width="117px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+</div>
+
